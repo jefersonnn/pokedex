@@ -1,4 +1,4 @@
 # pokedex
-Pokedex criado com CSS e JavaScript teste
+Pokedex criado com CSS e JavaScript
 
 https://jefersonnn.github.io/pokedex/
